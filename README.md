@@ -4,7 +4,7 @@
 
 ## :scroll: Description
 
-Dogly :dog2: is dog adoption app made with :heart: and Jetpack Compose. 
+Dogly is a dog adoption app made with :heart:  and Jetpack Compose. 
 This submission is a first week challenge of #AndroidDevChallenge.
 
 ## :bulb: Motivation and Context
@@ -13,9 +13,7 @@ I am especially proud of making complex and beautiful layouts using Jetpack Comp
 
 ## :camera_flash: Screenshots
 
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_1.png" width="260">
-
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_1.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
 ## License
 ```
